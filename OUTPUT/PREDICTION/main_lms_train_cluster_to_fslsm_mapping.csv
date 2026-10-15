@@ -1,0 +1,17 @@
+cluster_id,cluster_name,cluster_size_train,Processing,Processing_mode_balance,Processing_member_balance,Perception,Perception_mode_balance,Perception_member_balance,Input,Input_mode_balance,Input_member_balance,Understanding,Understanding_mode_balance,Understanding_member_balance
+0,C01,1181,ACT,1,1021,INT,-2,-1394,VIS,4,3970,SEQ,1,973
+1,C02,291,REF,0,-38,SEN,0,70,VRB,-1,-75,GLO,-2,-313
+2,C03,352,ACT,0,70,SEN,1,284,VIS,4,1008,SEQ,1,163
+3,C04,180,REF,-2,-231,SEN,1,158,VIS,1,120,GLO,-2,-127
+4,C05,289,ACT,1,104,INT,-2,-403,VIS,2,473,GLO,0,-23
+5,C06,303,REF,-3,-268,SEN,1,193,VIS,3,796,GLO,-3,-365
+6,C07,304,REF,-2,-196,INT,-1,-217,VIS,3,886,GLO,-1,27
+7,C08,217,ACT,0,165,INT,-4,-500,VIS,4,710,GLO,-1,-156
+8,C09,175,REF,-4,-357,INT,-3,-309,VIS,0,6,GLO,-1,-145
+9,C10,196,ACT,2,369,SEN,3,355,VIS,4,669,GLO,-2,-163
+10,C11,246,ACT,3,673,INT,-2,-285,VIS,4,825,GLO,-2,-271
+11,C12,182,REF,-3,-271,SEN,3,410,VIS,1,240,SEQ,1,187
+12,C13,195,ACT,2,151,SEN,0,66,VIS,2,283,GLO,-1,-146
+13,C14,219,ACT,1,93,INT,-1,-54,VIS,4,695,SEQ,3,472
+14,C15,266,ACT,3,472,SEN,2,557,VRB,-2,-477,SEQ,0,25
+15,C16,64,ACT,0,2,SEN,4,124,VIS,0,34,SEQ,3,88

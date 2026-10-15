@@ -1,0 +1,5 @@
+dimension,direction_agreement_mean,direction_agreement_sd,direction_agreement_95ci_low,direction_agreement_95ci_high,score_exact_agreement_mean,score_exact_agreement_sd,score_exact_agreement_95ci_low,score_exact_agreement_95ci_high,score_mae_mean,score_mae_sd,score_mae_95ci_low,score_mae_95ci_high
+Active/Reflective,0.720353,0.027753,0.710846,0.730329,0.557003,0.065629,0.533890,0.579622,1.050207,0.117430,1.010765,1.091914
+Sensing/Intuitive,0.740631,0.031401,0.729547,0.751859,0.459113,0.084366,0.427406,0.487401,1.524521,0.197107,1.460243,1.595194
+Visual/Verbal,0.916128,0.032236,0.905013,0.927463,0.513932,0.057017,0.494486,0.534118,1.830442,0.156564,1.773021,1.883715
+Sequential/Global,0.742609,0.026926,0.733276,0.752147,0.429985,0.071088,0.404205,0.454156,2.032230,0.202259,1.962493,2.106417

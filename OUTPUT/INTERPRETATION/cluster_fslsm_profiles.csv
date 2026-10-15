@@ -1,0 +1,17 @@
+empirical_cluster,learners,base_ls_class,base_fslsm_profile,A_R_score,A_R_interpretation,Sens_Int_score,Sens_Int_interpretation,Vis_Ver_score,Vis_Ver_interpretation,Seq_Gl_score,Seq_Gl_interpretation,mean_strength,boundary_dimension,nearest_alternative_ls,preference_signature
+C01,1671,LS05,Act.-Int.-Vis.-Seq.,Act.1,Balanced,Int.3,Balanced,Vis.9,Strong preference,Seq.3,Balanced,4.0,A/R,LS13,Act.1|Int.3|Vis.9|Seq.3
+C02,512,LS10,Ref.-Sens.-Vis.-Gl.,Ref.1,Balanced,Sens.1,Balanced,Vis.1,Balanced,Gl.1,Balanced,1.0,A/R|Sens./Int.|Vis./Ver.|Seq./Gl.,LS02|LS14|LS12|LS09,Ref.1|Sens.1|Vis.1|Gl.1
+C03,343,LS14,Ref.-Int.-Vis.-Gl.,Ref.1,Balanced,Int.1,Balanced,Vis.3,Balanced,Gl.1,Balanced,1.5,A/R|Sens./Int.|Seq./Gl.,LS06|LS10|LS13,Ref.1|Int.1|Vis.3|Gl.1
+C04,321,LS10,Ref.-Sens.-Vis.-Gl.,Ref.1,Balanced,Sens.3,Balanced,Vis.1,Balanced,Gl.3,Balanced,2.0,A/R|Vis./Ver.,LS02|LS12,Ref.1|Sens.3|Vis.1|Gl.3
+C05,366,LS06,Act.-Int.-Vis.-Gl.,Act.1,Balanced,Int.3,Balanced,Vis.7,Moderate preference,Gl.3,Balanced,3.5,A/R,LS14,Act.1|Int.3|Vis.7|Gl.3
+C06,297,LS06,Act.-Int.-Vis.-Gl.,Act.3,Balanced,Int.1,Balanced,Vis.5,Moderate preference,Gl.3,Balanced,3.0,Sens./Int.,LS02,Act.3|Int.1|Vis.5|Gl.3
+C07,455,LS13,Ref.-Int.-Vis.-Seq.,Ref.1,Balanced,Int.1,Balanced,Vis.9,Strong preference,Seq.3,Balanced,3.5,A/R|Sens./Int.,LS05|LS09,Ref.1|Int.1|Vis.9|Seq.3
+C08,467,LS09,Ref.-Sens.-Vis.-Seq.,Ref.1,Balanced,Sens.3,Balanced,Vis.9,Strong preference,Seq.5,Moderate preference,4.5,A/R,LS01,Ref.1|Sens.3|Vis.9|Seq.5
+C09,422,LS02,Act.-Sens.-Vis.-Gl.,Act.1,Balanced,Sens.1,Balanced,Vis.9,Strong preference,Gl.3,Balanced,3.5,A/R|Sens./Int.,LS10|LS06,Act.1|Sens.1|Vis.9|Gl.3
+C10,158,LS10,Ref.-Sens.-Vis.-Gl.,Ref.1,Balanced,Sens.1,Balanced,Vis.7,Moderate preference,Gl.1,Balanced,2.5,A/R|Sens./Int.|Seq./Gl.,LS02|LS14|LS09,Ref.1|Sens.1|Vis.7|Gl.1
+C11,276,LS14,Ref.-Int.-Vis.-Gl.,Ref.1,Balanced,Int.1,Balanced,Vis.1,Balanced,Gl.3,Balanced,1.5,A/R|Sens./Int.|Vis./Ver.,LS06|LS10|LS16,Ref.1|Int.1|Vis.1|Gl.3
+C12,325,LS03,Act.-Sens.-Ver.-Seq.,Act.3,Balanced,Sens.3,Balanced,Ver.5,Moderate preference,Seq.1,Balanced,3.0,Seq./Gl.,LS04,Act.3|Sens.3|Ver.5|Seq.1
+C13,307,LS06,Act.-Int.-Vis.-Gl.,Act.3,Balanced,Int.1,Balanced,Vis.9,Strong preference,Gl.5,Moderate preference,4.5,Sens./Int.,LS02,Act.3|Int.1|Vis.9|Gl.5
+C14,242,LS05,Act.-Int.-Vis.-Seq.,Act.3,Balanced,Int.3,Balanced,Vis.9,Strong preference,Seq.3,Balanced,4.5,A/R|Sens./Int.|Seq./Gl.,LS13|LS01|LS06,Act.3|Int.3|Vis.9|Seq.3
+C15,302,LS14,Ref.-Int.-Vis.-Gl.,Ref.1,Balanced,Int.5,Moderate preference,Vis.1,Balanced,Gl.3,Balanced,2.5,A/R|Vis./Ver.,LS06|LS16,Ref.1|Int.5|Vis.1|Gl.3
+C16,194,LS01,Act.-Sens.-Vis.-Seq.,Act.1,Balanced,Sens.3,Balanced,Vis.9,Strong preference,Seq.1,Balanced,3.5,A/R|Seq./Gl.,LS09|LS02,Act.1|Sens.3|Vis.9|Seq.1

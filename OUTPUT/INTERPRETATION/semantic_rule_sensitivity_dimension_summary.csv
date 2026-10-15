@@ -1,0 +1,13 @@
+rule,dimension,cluster_level_agreement,learner_weighted_agreement,changed_clusters
+MEMBER_FIRST,Active/Reflective,1.000000,1.000000,0
+MEMBER_FIRST,Sensing/Intuitive,0.937500,0.948483,1
+MEMBER_FIRST,Visual/Verbal,1.000000,1.000000,0
+MEMBER_FIRST,Sequential/Global,1.000000,1.000000,0
+MODE_ONLY,Active/Reflective,0.937500,0.976269,1
+MODE_ONLY,Sensing/Intuitive,1.000000,1.000000,0
+MODE_ONLY,Visual/Verbal,0.750000,0.788074,4
+MODE_ONLY,Sequential/Global,0.812500,0.845149,3
+MEMBER_ONLY,Active/Reflective,1.000000,1.000000,0
+MEMBER_ONLY,Sensing/Intuitive,0.937500,0.948483,1
+MEMBER_ONLY,Visual/Verbal,1.000000,1.000000,0
+MEMBER_ONLY,Sequential/Global,1.000000,1.000000,0

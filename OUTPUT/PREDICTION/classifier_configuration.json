@@ -1,0 +1,51 @@
+{
+  "split_seed": 161600,
+  "test_size": 0.3,
+  "K": 16,
+  "max_iter": 100,
+  "NB": {
+    "class": "CategoricalNB",
+    "alpha": 1.0
+  },
+  "SVM": {
+    "encoding": "OneHotEncoder(handle_unknown=ignore)",
+    "kernel": "rbf",
+    "C": 1.0,
+    "gamma": "scale"
+  },
+  "DT": {
+    "encoding": "OneHotEncoder(handle_unknown=ignore)",
+    "criterion": "gini",
+    "random_state": 161600
+  },
+  "main_lms_predictors": [
+    "content_visit",
+    "content_stay",
+    "selfass_visit_proxy",
+    "selfass_stay_proxy",
+    "exercise_visit_proxy",
+    "exercise_stay_proxy",
+    "forum_visit",
+    "forum_stay",
+    "forum_post",
+    "quiz_stay_results_proxy",
+    "navigation_overview_visit",
+    "navigation_overview_stay",
+    "return_to_overview_rate"
+  ],
+  "external_ieee_predictors": [
+    "Course overview",
+    "Reading file",
+    "Abstract materiale",
+    "Concrete material",
+    "Visual Materials",
+    "Self-assessment",
+    "Exercises submit",
+    "Quiz submitted",
+    "playing",
+    "paused",
+    "unstarted",
+    "buffering",
+    "CARE_cluster"
+  ]
+}
