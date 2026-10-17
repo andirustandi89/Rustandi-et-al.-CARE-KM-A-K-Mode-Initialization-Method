@@ -1,2 +1,0 @@
-source_name,repository,source_url,source_files_used,selection,redistributed_raw_source,reason,identifier_policy
-Learning Style Identification,IEEE DataPort,https://ieee-dataport.org/documents/learning-style-identification,CSHS.xlsx; CSMS.xlsx,first 480 complete-label CSHS rows in source order; all 256 complete-label CSMS rows,No,"third-party source; archive retains only audit indices, frozen train thresholds, and derived study outputs",source IDs removed; records represented as I0001-I0736

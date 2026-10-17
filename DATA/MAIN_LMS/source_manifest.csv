@@ -1,2 +1,0 @@
-source_name,upstream_repository,source_artifact,source_type,redistributed_raw_source,public_release_scope,identifier_policy
-Moodle Early Performance Prediction,https://github.com/moisesriestra/moodle-early-performance-prediction,mysql-export referenced by the upstream repository README,Moodle MySQL dump / LMS event records,No,anonymized 13-feature learner-level numeric matrix and its 3-level categorical matrix used in this study,original Moodle user identifiers replaced by L000001-L006658
