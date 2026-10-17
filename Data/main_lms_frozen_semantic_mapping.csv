@@ -1,0 +1,17 @@
+cluster_id,cluster_name,cluster_size,active_reflective,sensing_intuitive,visual_verbal,sequential_global,ls_class,mapping_status
+0,C01,1273,Act.,Int.,Vis.,Seq.,LS05,RESOLVED
+1,C02,358,Ref.,Sens.,Vis.,Gl.,LS10,RESOLVED
+2,C03,279,Ref.,Sens.,Vis.,Gl.,LS10,RESOLVED
+3,C04,417,Act.,Sens.,Vis.,Gl.,LS02,RESOLVED
+4,C05,266,Act.,Int.,Vis.,Seq.,LS05,RESOLVED
+5,C06,276,Ref.,Int.,Vis.,Gl.,LS14,RESOLVED
+6,C07,233,Ref.,Sens.,Vis.,Seq.,LS09,RESOLVED
+7,C08,263,Act.,Int.,Vis.,Gl.,LS06,RESOLVED
+8,C09,135,Act.,Sens.,Vis.,Seq.,LS01,RESOLVED
+9,C10,182,Ref.,Sens.,Ver.,Gl.,LS12,RESOLVED
+10,C11,97,Act.,Sens.,Vis.,Gl.,LS02,RESOLVED
+11,C12,173,Ref.,Sens.,Vis.,Gl.,LS10,RESOLVED
+12,C13,245,Act.,Sens.,Ver.,Seq.,LS03,RESOLVED
+13,C14,175,Ref.,Int.,Vis.,Gl.,LS14,RESOLVED
+14,C15,122,Act.,Sens.,Vis.,Gl.,LS02,RESOLVED
+15,C16,166,Ref.,Int.,Vis.,Seq.,LS13,RESOLVED

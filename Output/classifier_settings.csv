@@ -1,0 +1,7 @@
+dataset,model,target,encoding,parameters,random_state
+main_lms,NB,four FSLSM dimensions,categorical codes 1/2/3,"CategoricalNB(alpha=1.0, min_categories=4)",
+main_lms,DT,four FSLSM dimensions,OneHotEncoder(handle_unknown=ignore),DecisionTreeClassifier(),161600
+main_lms,SVM,four FSLSM dimensions,OneHotEncoder(handle_unknown=ignore),"SVC(kernel=rbf, C=1.0, gamma=scale)",
+groundtruth,NB,CARE-KM-derived ls_class,categorical codes 1/2/3,"CategoricalNB(alpha=1.0, min_categories=4)",
+groundtruth,DT,CARE-KM-derived ls_class,categorical codes 1/2/3,DecisionTreeClassifier(class_weight=balanced),161600
+groundtruth,SVM,CARE-KM-derived ls_class,OneHotEncoder(handle_unknown=ignore),"SVC(kernel=rbf, C=1.0, gamma=scale, class_weight=balanced)",
