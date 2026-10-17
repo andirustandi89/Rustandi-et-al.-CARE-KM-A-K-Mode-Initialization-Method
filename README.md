@@ -224,7 +224,7 @@ Users should obtain third-party source data from their original providers and co
 
 If you use these materials, please cite the accompanying CARE-KM article:
 
-**CARE-KM: A K-Modes Initialization Method for Felder-Silverman Learning Style Profiling and Prediction from LMS Behavior**
+**CARE-KM: A K-Modes Initialization Method for Categorical Clustering with a Felder–Silverman Learning-Style Application**
 
 ## Authors
 
