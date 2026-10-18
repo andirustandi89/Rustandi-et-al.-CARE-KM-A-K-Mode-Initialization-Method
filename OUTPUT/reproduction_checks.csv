@@ -1,0 +1,9 @@
+analysis,status,finding
+full_lms_seven_initializers,PASS,"Recomputed full-data means match archived cost, DBI, SI and iteration values"
+questionnaire_refit,PASS,"CARE-KM, NB, DT and SVM match Table 11 accuracy, balanced accuracy and macro-F1"
+main_holdout_metrics,PASS,"Saved predictions reproduce Table 10 accuracy, balanced accuracy and macro-F1"
+full_lms_profiles,PASS,All 16 direction and magnitude profiles match Table 9
+benchmark_statistics,PASS,"Recomputed Friedman statistics, p-values and Kendall concordance match released results"
+lms_statistics,PASS,Paired tests recomputed with 24-comparison joint Holm correction
+data_integrity,PASS,6658 main learners; 461 questionnaire learners; fixed disjoint split membership
+terminology,PASS,Requested excluded terminology absent from all released text files

@@ -1,0 +1,11 @@
+No,Dataset,Rows,attributes,clusters
+1,Car Evaluation,1728,6,4
+2,Lymphography,148,18,4
+3,Hayes-Roth,160,3,3
+4,Statlog Australian Credit Approval,690,14,2
+5,Chronic Kidney Disease,400,24,2
+6,Annealing,898,38,5
+7,Statlog Heart,270,13,2
+8,Heart Disease (Cleveland),303,13,2
+9,Thyroid Disease (New Thyroid subset),215,5,3
+10,Nursery,12960,8,5

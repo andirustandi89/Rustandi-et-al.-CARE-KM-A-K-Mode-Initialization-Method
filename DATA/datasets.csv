@@ -1,0 +1,3 @@
+dataset,learners,features,source,representation
+main_lms,6658,13,"Riestra-Gonzalez et al. 2021, manuscript reference 27","nominal codes 1 Low, 2 Moderate, 3 High"
+questionnaire_cohort,461,19,"Computer Education, Universitas Mulawarman; author-collected Moodle and ILS records",training-fitted categorical indicators; independent ILS labels in separate file

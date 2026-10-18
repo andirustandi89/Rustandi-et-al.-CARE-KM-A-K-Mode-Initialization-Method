@@ -1,0 +1,8 @@
+Dimension or summary,NB,DT,SVM
+Active / Reflective,75.53%,85.74%,91.04%
+Sensing / Intuitive,80.23%,85.79%,91.94%
+Visual / Verbal,91.94%,95.70%,97.90%
+Sequential / Global,77.53%,86.29%,91.59%
+Mean accuracy,81.31%,88.38%,93.12%
+Mean balanced accuracy,79.44%,86.85%,91.39%
+Mean macro-F1,78.01%,86.28%,91.90%

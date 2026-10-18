@@ -1,0 +1,11 @@
+dataset,file,display,reference_rows,reference_features,reference_k
+car,dataset_car+evaluation.zip,Car Evaluation,1728,6,4
+lymphography,dataset_lymphography.zip,Lymphography,148,18,4
+hayes_roth,hayes+roth.zip,Hayes-Roth,160,3,3
+australian_credit,statlog+australian+credit+approval.zip,Statlog Australian Credit Approval,690,14,2
+chronic_kidney,chronic+kidney+disease.zip,Chronic Kidney Disease,400,24,2
+annealing,annealing.zip,Annealing,898,38,5
+statlog_heart,statlog+heart.zip,Statlog Heart,270,13,2
+heart_disease,heart+disease.zip,Heart Disease (Cleveland),303,13,2
+thyroid_disease,thyroid+disease.zip,Thyroid Disease (New Thyroid subset),215,5,3
+nursery,dataset_nursery.zip,Nursery,12960,8,5

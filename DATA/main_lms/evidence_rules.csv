@@ -1,0 +1,23 @@
+feature,dimension,low_supports,moderate_supports,high_supports,semantic_basis,evidence_type,source
+content_visit,Active/Reflective,Active,Neutral,Reflective,trying something out / think about material,direct,Graf 2007 Table 5.2; Table 5.10
+content_stay,Active/Reflective,Active,Neutral,Reflective,trying something out / think about material,direct,Graf 2007 Table 5.2; Table 5.10
+selfass_visit_proxy,Active/Reflective,Reflective,Neutral,Active,think about material / trying something out,proxy,Graf 2007 Table 5.2; Table 5.10
+selfass_stay_proxy,Active/Reflective,Active,Neutral,Reflective,trying something out / think about material,proxy,Graf 2007 Table 5.2; Table 5.10
+exercise_visit_proxy,Active/Reflective,Reflective,Neutral,Active,think about material / trying something out,proxy,Graf 2007 Table 5.2; Table 5.10
+exercise_stay_proxy,Active/Reflective,Reflective,Neutral,Active,think about material / trying something out,proxy,Graf 2007 Table 5.2; Table 5.10
+forum_visit,Active/Reflective,Active,Neutral,Reflective,social oriented / impersonal oriented,direct,Graf 2007 Table 5.2; Table 5.10
+forum_post,Active/Reflective,Reflective,Neutral,Active,impersonal oriented / social oriented,direct,Graf 2007 Table 5.2; Table 5.10
+quiz_stay_results_proxy,Active/Reflective,Active,Neutral,Reflective,less review / more reflection on results,proxy,Graf 2007 Table 5.2; Table 5.10
+content_visit,Sensing/Intuitive,Sensing,Neutral,Intuitive,concrete material / abstract material,direct,Graf 2007 Table 5.2; Table 5.11
+content_stay,Sensing/Intuitive,Sensing,Neutral,Intuitive,concrete material / abstract material,direct,Graf 2007 Table 5.2; Table 5.11
+selfass_visit_proxy,Sensing/Intuitive,Intuitive,Neutral,Sensing,new ways / existing ways,proxy,Graf 2007 Table 5.2; Table 5.11
+selfass_stay_proxy,Sensing/Intuitive,Intuitive,Neutral,Sensing,not careful / careful with details,proxy,Graf 2007 Table 5.2; Table 5.11
+exercise_visit_proxy,Sensing/Intuitive,Intuitive,Neutral,Sensing,new ways / existing ways,proxy,Graf 2007 Table 5.2; Table 5.11
+quiz_stay_results_proxy,Sensing/Intuitive,Intuitive,Neutral,Sensing,not careful / careful with details,proxy,Graf 2007 Table 5.2; Table 5.11
+content_visit,Visual/Verbal,Visual,Neutral,Verbal,pictures / written words,direct,Graf 2007 Table 5.2; Table 5.12
+forum_visit,Visual/Verbal,Visual,Neutral,Verbal,pictures / written words,direct,Graf 2007 Table 5.2; Table 5.12
+forum_stay,Visual/Verbal,Visual,Neutral,Verbal,pictures / written words,direct,Graf 2007 Table 5.2; Table 5.12
+forum_post,Visual/Verbal,Visual,Neutral,Verbal,pictures / written words,direct,Graf 2007 Table 5.2; Table 5.12
+navigation_overview_visit,Sequential/Global,Sequential,Neutral,Global,sequential progress / overall picture & non-sequential progress,direct,Graf 2007 Table 5.2; Table 5.13
+navigation_overview_stay,Sequential/Global,Sequential,Neutral,Global,detail/sequential / overall picture,direct,Graf 2007 Table 5.2; Table 5.13
+return_to_overview_rate,Sequential/Global,Sequential,Neutral,Global,sequential progress / non-sequential overview-return behavior,adapted,Adapted from Graf 2007 overview/navigation semantics; Table 5.13

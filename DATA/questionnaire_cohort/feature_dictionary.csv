@@ -1,0 +1,23 @@
+feature,prefix,core_model,definition,source_tables,support_type,low_threshold,high_threshold,boundary_rule,category_H,category_M,category_L,category_structural_NA
+content_visit,CV,1,Recorded content-object visits / content objects available in selected course × 100; completion-view is used as one visit when the view log is absent.,mdl_logstore_standard_log; mdl_course_modules; mdl_course_modules_completion,DIRECT/ADAPTED,75.0,100.0,STD,CV3,CV2,CV1,CV0
+content_stay,CS,1,Corrected total content stay normalized to course-specific high-interest expected time (Q75 positive stay) × 100.,mdl_logstore_standard_log; mdl_course_modules,ADAPTED,50.0,75.0,STD,CS3,CS2,CS1,CS0
+selfass_visit,SAV,1,Recorded question attempts / available quiz question slots in selected course × 100.,mdl_quiz_slots; mdl_question_attempts; mdl_quiz_attempts,DIRECT,25.0,75.0,STD,SAV3,SAV2,SAV1,SAV0
+selfass_twice_wrong,STW,1,Share of repeatedly attempted user-question pairs that were wrong at least twice.,mdl_question_attempts; mdl_question_attempt_steps,DIRECT,25.0,50.0,STD,STW3,STW2,STW1,STW0
+exercise_visit,EXV,1,Submitted assignments / assignments available in selected course × 100.,mdl_assign; mdl_assign_submission,DIRECT,25.0,75.0,STD,EXV3,EXV2,EXV1,EXV0
+exercise_stay,EXS,1,Corrected assignment interaction stay normalized to course-specific high-interest expected time (Q75 positive stay) × 100.,mdl_logstore_standard_log; mdl_assign,ADAPTED,50.0,75.0,STD,EXS3,EXS2,EXS1,EXS0
+ques_detail,QDT,1,Percent correct on latest attempted questions tagged detail; no observed attempt = 0.,mdl_question; mdl_question_attempts; mdl_question_attempt_steps,RULE-TAGGED,50.0,75.0,STD,QDT3,QDT2,QDT1,QDT0
+ques_overview,QOV,1,Percent correct on latest attempted questions tagged overview/relationship; no observed attempt = 0.,mdl_question; mdl_question_attempts; mdl_question_attempt_steps,RULE-TAGGED,50.0,75.0,STD,QOV3,QOV2,QOV1,QOV0
+ques_facts,QFA,1,Percent correct on latest attempted questions tagged facts; no observed attempt = 0.,mdl_question; mdl_question_attempts; mdl_question_attempt_steps,RULE-TAGGED,50.0,75.0,STD,QFA3,QFA2,QFA1,QFA0
+ques_concepts,QCO,1,Percent correct on latest attempted questions tagged concepts; no observed attempt = 0.,mdl_question; mdl_question_attempts; mdl_question_attempt_steps,RULE-TAGGED,50.0,75.0,STD,QCO3,QCO2,QCO1,QCO0
+ques_graphics,QGR,1,Percent correct on latest attempted questions tagged graphics/illustration; no observed attempt = 0.,mdl_question; mdl_question_attempts; mdl_question_attempt_steps,RULE-TAGGED,50.0,75.0,STD,QGR3,QGR2,QGR1,QGR0
+ques_text,QTX,1,Percent correct on latest attempted non-graphics questions; no observed attempt = 0.,mdl_question; mdl_question_attempts; mdl_question_attempt_steps,RULE-TAGGED,50.0,75.0,STD,QTX3,QTX2,QTX1,QTX0
+ques_interpret,QIN,1,Percent correct on latest attempted questions tagged interpretation/case; no observed attempt = 0.,mdl_question; mdl_question_attempts; mdl_question_attempt_steps,RULE-TAGGED,50.0,75.0,STD,QIN3,QIN2,QIN1,QIN0
+ques_develop,QDV,1,Percent correct on latest attempted questions tagged developing/applying solutions; no observed attempt = 0.,mdl_question; mdl_question_attempts; mdl_question_attempt_steps,RULE-TAGGED,50.0,75.0,STD,QDV3,QDV2,QDV1,QDV0
+quiz_revisions,QRV,1,Question attempts containing more than one completed answer step / question attempts × 100.,mdl_question_attempt_steps,DIRECT,20.0,50.0,STD,QRV3,QRV2,QRV1,QRV0
+quiz_stay_results,QRS,1,Mean corrected seconds after quiz summary/review events.,mdl_logstore_standard_log,DIRECT/ADAPTED,30.0,60.0,STD,QRS3,QRS2,QRS1,QRS0
+navigation_skip,NS,1,Proxy: forward non-adjacent module transitions / recorded module views × 100.,mdl_logstore_standard_log; mdl_course_sections; mdl_course_modules,PROXY,1.0,2.0,STD,NS3,NS2,NS1,NS0
+navigation_overview_visit,NOV,1,Course-overview views / recorded module views × 100.,mdl_logstore_standard_log,DIRECT,10.0,20.0,STD,NOV3,NOV2,NOV1,NOV0
+navigation_overview_stay,NOS,1,Corrected course-overview stay normalized to course-specific high-interest expected time (Q75 positive stay) × 100.,mdl_logstore_standard_log,ADAPTED,50.0,75.0,STD,NOS3,NOS2,NOS1,NOS0
+forum_visit,FV,0,Forum view events per scheduled course week.,mdl_logstore_standard_log; mdl_forum,DIRECT,7.0,50.0,LOW_INCLUSIVE,FV3,FV2,FV1,FV0
+forum_stay,FS,0,Corrected forum-view stay in minutes per scheduled course week.,mdl_logstore_standard_log; mdl_forum,DIRECT/ADAPTED,5.0,30.0,LOW_INCLUSIVE,FS3,FS2,FS1,FS0
+forum_post,FP,0,Forum posts per scheduled course week.,mdl_forum_posts; mdl_forum_discussions,DIRECT,1.0,10.0,LOW_INCLUSIVE,FP3,FP2,FP1,FP0
