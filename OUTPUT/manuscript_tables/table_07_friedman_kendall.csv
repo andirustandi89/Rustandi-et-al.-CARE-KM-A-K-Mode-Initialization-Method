@@ -1,6 +1,0 @@
-Metric,Friedman statistic,p-value,Kendall concordance
-DBI,31.174,2.35 × 10^-5,0.520
-SI,29.826,4.24 × 10^-5,0.497
-Initial cost,38.652,8.37 × 10^-7,0.644
-Final cost,21.652,0.0014,0.361
-Iterations,28.343,8.10 × 10^-5,0.472

@@ -1,5 +1,0 @@
-rule,active_reflective_agreement,sensing_intuitive_agreement,visual_verbal_agreement,sequential_global_agreement,mean_dimensional_agreement_weighted,mean_dimensional_agreement_cluster_level,exact_base_ls_agreement_weighted,exact_base_ls_agreement_cluster_level,unresolved_clusters,unresolved_learners,unresolved_learner_rate,distinct_resolved_ls_classes
-PRIMARY_MODE_FIRST,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,0.0,9
-MEMBER_FIRST,1.0,0.948483,1.0,1.0,0.987121,0.984375,0.948483,0.9375,0,0,0.0,9
-MODE_ONLY,0.976269,1.0,0.788074,0.845149,0.902373,0.875,0.686392,0.5625,7,2088,0.313608,6
-MEMBER_ONLY,1.0,0.948483,1.0,1.0,0.987121,0.984375,0.948483,0.9375,0,0,0.0,9
